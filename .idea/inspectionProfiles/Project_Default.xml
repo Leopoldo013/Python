@@ -1,0 +1,59 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="32">
+            <item index="0" class="java.lang.String" itemvalue="pbr" />
+            <item index="1" class="java.lang.String" itemvalue="tzlocal" />
+            <item index="2" class="java.lang.String" itemvalue="EasyProcess" />
+            <item index="3" class="java.lang.String" itemvalue="emoji" />
+            <item index="4" class="java.lang.String" itemvalue="googleapis-common-protos" />
+            <item index="5" class="java.lang.String" itemvalue="instapy" />
+            <item index="6" class="java.lang.String" itemvalue="importlib-metadata" />
+            <item index="7" class="java.lang.String" itemvalue="appdirs" />
+            <item index="8" class="java.lang.String" itemvalue="virtualenv-clone" />
+            <item index="9" class="java.lang.String" itemvalue="filelock" />
+            <item index="10" class="java.lang.String" itemvalue="selenium" />
+            <item index="11" class="java.lang.String" itemvalue="virtualenvwrapper" />
+            <item index="12" class="java.lang.String" itemvalue="zipp" />
+            <item index="13" class="java.lang.String" itemvalue="soupsieve" />
+            <item index="14" class="java.lang.String" itemvalue="jsonschema" />
+            <item index="15" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="16" class="java.lang.String" itemvalue="PyVirtualDisplay" />
+            <item index="17" class="java.lang.String" itemvalue="tornado" />
+            <item index="18" class="java.lang.String" itemvalue="stevedore" />
+            <item index="19" class="java.lang.String" itemvalue="turtle" />
+            <item index="20" class="java.lang.String" itemvalue="clarifai" />
+            <item index="21" class="java.lang.String" itemvalue="python-telegram-bot" />
+            <item index="22" class="java.lang.String" itemvalue="APScheduler" />
+            <item index="23" class="java.lang.String" itemvalue="MeaningCloud-python" />
+            <item index="24" class="java.lang.String" itemvalue="tqdm" />
+            <item index="25" class="java.lang.String" itemvalue="regex" />
+            <item index="26" class="java.lang.String" itemvalue="configparser" />
+            <item index="27" class="java.lang.String" itemvalue="plyer" />
+            <item index="28" class="java.lang.String" itemvalue="virtualenv" />
+            <item index="29" class="java.lang.String" itemvalue="distlib" />
+            <item index="30" class="java.lang.String" itemvalue="grpcio" />
+            <item index="31" class="java.lang.String" itemvalue="webdriverdownloader" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E402" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
